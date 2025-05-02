@@ -1,0 +1,46 @@
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 30px;
+    color: rgb(245, 242, 246);
+    text-decoration: dotted;
+    background-color: transparent;
+    border: 1px solid rgb(249, 249, 249);
+    text-align: center;
+    margin: 0px;
+    padding: 25px;
+}
+
+
+body {
+    margin: 100;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-image: url("https://content.elmueble.com/medio/2023/05/25/cachorros-de-labrador_1581ee18_230525142522_1000x667.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #faf7f7;
+    padding: 6px 80px;
+    text-decoration: none; 
+    justify-content: center;
+    font-weight: bold; 
+}
+
+.navbar a:hover {
+    background-color: #cac1c5;
+    color: rgb(10, 4, 4);
+}
+
+
